@@ -1,0 +1,1 @@
+ngrok http -subdomain=geopartyserver 3000
